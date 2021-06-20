@@ -1,7 +1,7 @@
 ---
 title: "Nanjing 01"
-date: 2021-06-20T16:58:19+08:00
-image: images/2021-06/20210619180624.jpg
+date: 2021-06-12T16:58:19+08:00
+image: https://z3.ax1x.com/2021/06/20/RkGN8A.jpg
 ---
 
 2021清明小长假，南京游记。
@@ -13,7 +13,7 @@ image: images/2021-06/20210619180624.jpg
 
 鱼嘴公园骑小车车，看到了网红之灯塔。
 
-![](/images/2021-06/20210620182335.jpg)
+![](https://z3.ax1x.com/2021/06/20/RkGtCd.jpg)
 
 
 ## Day 2 市区
@@ -24,11 +24,11 @@ image: images/2021-06/20210619180624.jpg
 
 南京大排档 & 喜茶
 
-![](/images/2021-06/20210620174801.jpg)
+![](https://z3.ax1x.com/2021/06/20/RkGUgI.jpg)
 
 百家湖
 
-![](/images/2021-06/20210620182326.jpg)
+![](https://z3.ax1x.com/2021/06/20/RkGJ4H.jpg)
 
 
 ## Day 3 牛首山
@@ -37,8 +37,8 @@ image: images/2021-06/20210619180624.jpg
 
 佛顶宫
 
-![](/images/2021-06/20210620182223.jpg)
-![](/images/2021-06/20210620182302.jpg)
+![](https://z3.ax1x.com/2021/06/20/RkGGUe.jpg)
+![](https://z3.ax1x.com/2021/06/20/RkG1HO.jpg)
 
 托乐嘉，冰雪密城
 
