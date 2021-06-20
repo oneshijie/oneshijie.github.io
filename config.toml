@@ -1,0 +1,31 @@
+baseurl = "http://example.com"
+languageCode = "zh"
+title = "LSJ & WLB 's Travel Diary"
+copyright = "copyright by wlb"
+paginate = 3
+
+googleAnalytics = "Yout Google Analytics ID"
+
+theme = "minimage"
+
+[params]
+  description = "记录我们的旅行"
+  author = "Your Name"
+  logo = ''
+
+#[taxonomies]
+#  category = "categories"
+#  tag = "tags"
+#
+#[[menu.global]]
+#    name = "posts"
+#    url = "/categories/posts/"
+#
+#[[menu.footer]]
+#    name = "About"
+#    url = "/page/about/"
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
