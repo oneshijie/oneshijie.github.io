@@ -2,9 +2,8 @@
 title: "20 10 Lushan1"
 date: 2021-10-31T19:44:12+08:00
 image: https://z3.ax1x.com/2021/10/31/IpFZkR.md.jpg
-draft: true
 ---
-10.2
+## 10.2
 
 跟小万哥哥第一次出省玩儿啦！
 
