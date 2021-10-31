@@ -1,6 +1,6 @@
 ---
 title: "20 10 Lushan1"
-date: 2021-10-02:44:12+08:00
+date: 2021-10-02T21:08:18+08:00
 image: https://z3.ax1x.com/2021/10/31/IpFZkR.md.jpg
 ---
 ## 10.2
