@@ -1,7 +1,7 @@
 ---
 title: "20 09 Nanjing"
 date: 2021-09-15T21:08:18+08:00
-image: 
+image: https://z3.ax1x.com/2021/10/31/Ip8Loq.md.jpg
 ---
 
 # 9月份
